@@ -1,4 +1,6 @@
 # hello-world
-Starting with git
 
-hi! this is Neha
+#include<stdio.h>
+int main(){
+  printf("Hello");
+}
